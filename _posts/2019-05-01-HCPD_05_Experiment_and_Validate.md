@@ -155,7 +155,7 @@ The effectiveness, efficiency and satisfaction with which specified users achiev
 
 #### Fidelity of Prototype 
 
-![high-low-fidility](/Users/billy/Documents/Learning_Notes/HCPD/Workshop/img/high-low-fidility.png)
+![high-low-fidility](/assets/img/HCPD/high-low-fidility.png)
 
 ##### StoryBoard
 
