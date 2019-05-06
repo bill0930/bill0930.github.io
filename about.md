@@ -4,8 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
+Hi this is Billy.  
 
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
+I am currently studying <b>Information Engineering</b> at <i>City University of Hong Kong</i>. 
 
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+I had been to Finland taking courses about <b>Human-Centered Design</b> and  <b>Web Architecture</b> and <b>Data Structure</b>  at <i>Tampere University of Technology</i>.
+
+Considering the image display and code block functions in <i>markdown</i>, I decided to create this blog to record my learing events instead of using my poor hand-writing jotting the notes down. It will be easier for me to do revision and search for reference.
+
+
+
+ Bucket List :
+- React Revision
+- Docker
+- Web AR development 
+  - three.js (WebGL JS library) for FYP (very very very big project)!
+
+You can check out my projects at this github : <data data-icon="ei-sc-github"></data>  [bill0930](https://github.com/bill0930)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Chapter 4, Ideation
-category: Human Centered Product Development
+category: Human_Centred_Product_Development
 description: Chapter 4
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Chapter 2, Standards_and_Future_Studies
-category: Human Centered Product Development
+category: Human_Centred_Product_Development
 description: Chapter 2
 ---
 # Workshop 2 - Standards and Future Studies

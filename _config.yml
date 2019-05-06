@@ -6,21 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: BillyChan
+title: Billy Chan
 email: bill0930@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi, this is billychan from hongkong, you may contact me  at "bill0930 at gm@il.com"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bill0930.github.io/" # the base hostname & protocol for your site
 twitter_username: bill0930
 github_username:  bill0930
-
 # Build settings
 markdown: kramdown
 kramdown:
   input: GFM
+  syntax_highlighter: rouge
 
 # Third-party services
 # just leave someone empty to disable it
@@ -29,3 +27,5 @@ disqus_shortname:
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
+
+highlight: true

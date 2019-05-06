@@ -11,9 +11,26 @@
   <link rel="stylesheet" href="{{"/assets/evil-icons.min.css" | prepend:site.baseurl }}">
   <script src="{{"/assets/evil-icons.min.js" | prepend:site.baseurl }}"></script>
 
+  <!-- syntax hightlighting  -->
+  <link rel="stylesheet" href="/assets/css/agate.css">
+  <script src="assets/js/highlight.pack.js"></script>
+
+  <!-- Latex hightlighting  -->
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        processEscapes: true
+      }
+    });
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    
+
   <!-- todo: include this into main.css -->
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 </head>
+

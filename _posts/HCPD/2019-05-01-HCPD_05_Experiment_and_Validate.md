@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Chapter 5, Experiment_and_Validate
-category: Human Centered Product Development
+category: Human_Centred_Product_Development
 description: Chapter 5
 ---
 
