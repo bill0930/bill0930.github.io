@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  基礎vue.js 概述
+title:  基礎vue.js概述
 category: Vue出一個電商網站
 description: 介紹vue.js基本基本
 ---
