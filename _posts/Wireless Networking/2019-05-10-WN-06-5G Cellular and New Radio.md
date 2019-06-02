@@ -103,11 +103,11 @@ description: 5G Cellular and New Radio
 
 ### Envisioned 3GPP 5G services
 
--  Enhanced mobile broadband(eMBB)
+-  **Enhanced mobile broadband(eMBB)**
    -  data-driven use cases requiring high data rates across a wide coverage area.
--  Massive machine-time communications(mMTC)
+-  **Massive machine-type communications(mMTC)**
    -  NB-IoT technology
--  Ultra-reliable low-latency services (URLLC)
+-  **Ultra-reliable low-latency services (URLLC)**
    -  Not yet available and no dates annouced 
 
 ![img](https://www.2cm.com.tw/upload/news/N171013000720171013165542.png)

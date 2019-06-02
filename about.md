@@ -8,9 +8,9 @@ Hi this is Billy.
 
 I am currently studying <b>Information Engineering</b> at <i>City University of Hong Kong</i>. 
 
-I had been to Finland taking courses about <b>Human-Centered Design</b> and  <b>Web Architecture</b> and <b>Data Structure</b>  at <i>Tampere University of Technology</i>.
+I had took courses about <b>Human-Centered Design</b> and  <b>Web Architecture</b> and <b>Data Structure</b>  at <i>Tampere University of Technology</i>. Now my main focus is the Web Development.
 
-Considering that the image display and code block functions in <i>markdown</i> are useful for me to generalizing my notes , I decided to create a blog to record my learing events instead of using my poor hand-writing to jot notes . It will be easier for me to do revisions and search for references.
+Noticing that the image display and code block functions in <i>markdown</i> are useful  , I decided to create a blog to record my learing events instead of using my poor hand-writing to jot notes . It will be easier for me to do revisions and search for references.
 
 
 

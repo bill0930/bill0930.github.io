@@ -11,11 +11,11 @@ description: for revision some main point
 ### Spread Spectrum
 
 -  Spread-spectrum is designed to trade bandwidth efficiency for reliability, integrity, and security
--  FHSS
+-  **FHSS**
    -  Frequency Hopping Spread Spectrum
    -  Spectrum is divided into many subchannels 
    -  two communicating systems hop on same frequency
--  DSSS
+-  **DSSS**
    -  Direct Sequence spread spectrum
       -  stations are assigned orthogonal codes
       -  use these code for transmission
@@ -154,4 +154,36 @@ description: for revision some main point
 ### MIssion of 3gpp
 
 -  The 3rd Generation Partnership Project (3GPP)
+
+-  developing globally acceptable specifications for third generation (3G) mobile systems. 
+
+### shortcomings of CSMA/CD in wireless networks
+
+-  collisions in wirerless channels are harder to detect
+-  colisions leads to usage of bandwidth which is scarce
+
+### Which layers IEEE 802.11 specify in their standards? Why?
+
+-  only standardize PHY and MAC lyaer
+-  Interfaces to higher layer is the same as those in iEEE 802.x standards
+-  The upper layers is still the same as normal LAN
+-  what the different is the medium for tranmission , it is in wireless now. 
+
+### What are two principle operation modes of 802.11a/b/g/n systems?
+
+-  ad-hoc mode
+-  infrastructure mode
+
+### Briefly explain evolution of air interface technology from GSM towards LTE.
+
+**GSM**
+
+-  TDMA and CDMA
+-  FSK digital modulation
+
+GPRS
+
+EDGE
+
+1. Why is ad-hoc networking useful in militaristic applications?
 
